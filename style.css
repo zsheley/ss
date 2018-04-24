@@ -26,11 +26,11 @@ div {
 	cursor: pointer;
 }
 .button1 {
-	background-color: green;
+	background-color: #4CAF50;
 	color: black;
 	border: 2px solid #4CAF50
 }
 .button1:hover {
-	background-color: solid #4CAF50;
+	background-color: white;
 	color: black;
 }
